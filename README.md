@@ -5,4 +5,5 @@ here there is two files one with only logic and other as a application
 the screenshot is only code output
 
 ![image](https://github.com/user-attachments/assets/a4639d97-107f-4f5e-87d6-54e4c21bed89)
+
 this is the code output as application
